@@ -1,0 +1,5 @@
+# Fine-tuned models
+bert-tiny-finetuned/
+bert-small-finetuned/
+bert-mini-finetuned/
+distilbert-base-uncased-finetuned/
